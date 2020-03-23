@@ -1,0 +1,12 @@
+/Users/vinhdoan/challenges/dotnet-hello-calculator/bin/Debug/netcoreapp3.1/dotnet-hello-calculator.deps.json
+/Users/vinhdoan/challenges/dotnet-hello-calculator/bin/Debug/netcoreapp3.1/dotnet-hello-calculator.runtimeconfig.json
+/Users/vinhdoan/challenges/dotnet-hello-calculator/bin/Debug/netcoreapp3.1/dotnet-hello-calculator.runtimeconfig.dev.json
+/Users/vinhdoan/challenges/dotnet-hello-calculator/bin/Debug/netcoreapp3.1/dotnet-hello-calculator.dll
+/Users/vinhdoan/challenges/dotnet-hello-calculator/bin/Debug/netcoreapp3.1/dotnet-hello-calculator.pdb
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.csprojAssemblyReference.cache
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.csproj.CoreCompileInputs.cache
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.AssemblyInfoInputs.cache
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.AssemblyInfo.cs
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.dll
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.pdb
+/Users/vinhdoan/challenges/dotnet-hello-calculator/obj/Debug/netcoreapp3.1/dotnet-hello-calculator.genruntimeconfig.cache
